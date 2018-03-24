@@ -1,0 +1,2 @@
+# Japanize
+発言のローマ字を日本語に変換するPocketmine向けプラグイン
