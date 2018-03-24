@@ -1,0 +1,11 @@
+name: Japanize
+main: Japanize\Main
+version: 1.0
+api:
+  - 2.0.0
+  - 3.0.0
+  - 3.0.0-ALPHA8 #pmmp/PocketMine-MP
+load: STARTUP
+author: koyu5386
+description: ローマ字で書かれた文を、平仮名や漢字に変換します。
+website: https://twitter.com/koyu5386
